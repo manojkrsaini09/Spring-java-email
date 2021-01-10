@@ -34,6 +34,7 @@ import com.manu.springmail.mailutil.MailAttachment;
 import com.manu.springmail.mailutil.MailObject;
 import com.manu.springmail.mailutil.Recipient;
 
+
 @RestController
 public class HomeController {
 
